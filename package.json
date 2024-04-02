@@ -8,7 +8,7 @@
     "node": "^20"
   },
   "scripts": {
-    "start": "node .output/server/index.mjs",
+    "start": "bun .output/server/index.mjs",
     "dev": "nuxt dev",
     "_": "",
     "analyze": "nuxt build --analyze",
