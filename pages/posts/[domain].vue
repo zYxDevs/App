@@ -828,9 +828,10 @@
     }
 
     useScript({
-      src: 'https://messyadvance.com/ckDt9/6Fb.2/5/ltSWWDQe9VNRThUn2/M/D/AH4/MFCG0j1-NrT/YHw/MBDWgHx-',
+      src: 'https://qc.tahrsli.com/rnQ1auy2MHoCDNQy/kmlaO',
       async: false,
-      defer: true
+      defer: true,
+      'data-cfasync': 'false'
     })
   })
 </script>
