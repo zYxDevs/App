@@ -832,6 +832,13 @@
       async: false,
       defer: true
     })
+
+    useScript({
+      src: 'https://av.flirtymashed.com/rTGNB7wNyZOzw2/kmlaO',
+      async: false,
+      defer: true,
+      'data-cfasync': 'false'
+    })
   })
 </script>
 
